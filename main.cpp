@@ -100,7 +100,7 @@ int main()
    Passive * p;
    int elements = 0;
 
-   cout << "Fajl beolvasasa: " << filename << endl; // Információ a felhasználó felé
+   cout << "Reading from file: " << filename << endl; // Információ a felhasználó felé
    while(getline(input_file, line))
    {
        p = processLine(line);
