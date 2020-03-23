@@ -1,7 +1,7 @@
 # prog2v
 This repository contains some _(hopefully)_ useful source files and explanations about the object-oriented C++ programming.
 ## Disclaimer
-- I have created and maintained this book for **educational purposes**.
+- I have created and maintained this repository for **educational purposes**.
 - **It may contain errors!** _(I compiled and ran all of the projects with the [Code::Blocks IDE](http://www.codeblocks.org), so it should not contain compilation errors...)_
 - I welcome **bug reports** and **constructive criticism**!
 ## Table of contents
