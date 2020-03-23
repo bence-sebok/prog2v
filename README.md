@@ -19,3 +19,6 @@ There are example source codes about some important topics in this folder:
 - Handling files
 ### Exercises
 These files are the solutions of some basic exercises.
+
+_For example the implementation of the following class diagram:_
+![Class diagram of the Equipments](https://github.com/bence-sebok/prog2v/blob/master/Exercises/Equipments/ClassDiagram.png "Class diagram of the Equipments")
